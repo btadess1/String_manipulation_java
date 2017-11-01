@@ -7,8 +7,8 @@ public class StringManipulatorTester {
 		
 		StringManipulator manipulate = new StringManipulator();
 		System.out.println(manipulate.concatSubString("Hello", 1, 2, "World"));
-		System.out.println(manipulate.getIndexOrNull("Ethiopia", "thi"));
-		System.out.println(manipulate.trimAndConcat("  Life is good ",  " all the time "));
+		System.out.println(manipulate.getIndexOrNull("Ethiopia", "iop"));
+		System.out.println(manipulate.trimAndConcat("  God is good ",  " all the time "));
 	}
 
 }
